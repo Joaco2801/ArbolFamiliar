@@ -1,10 +1,18 @@
+using System.Runtime.CompilerServices;
+
 namespace Library
 
-public class Person
+public abstract class Person
 {
-    public string nombre;
-    public int edad;
+    public string nombre { get; set; }
+    public int edad { get; set; }
 
+    public Person(string nombre, int edad)
+    {
+        this.person 
+
+
+    }
 
 }
 

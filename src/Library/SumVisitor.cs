@@ -16,4 +16,9 @@ public class SumVisitor: IVisitor
     {
         sum += node.Number;
     }
+
+    public void Visit2(Person individuo)
+    {
+        sum +=  individuo.Edad;
+    }
 }

@@ -2,13 +2,13 @@ namespace Library;
 
 public abstract class Person
 {
-    public string nombre { get; set; }
-    public int edad { get; set; }
+    public string Nombre { get; set; }
+    public int Edad { get; set; }
 
     public Person(string nombre, int edad)
     {
-        this.nombre = nombre;
-        this.edad = edad;
+        this.Nombre = nombre;
+        this.Edad = edad;
     }
 
     public class individuo : Person

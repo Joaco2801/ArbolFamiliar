@@ -9,7 +9,8 @@ public abstract class Person
 
     public Person(string nombre, int edad)
     {
-        this.person 
+        this.nombre = nombre;
+        this.edad = edad;
 
 
     }

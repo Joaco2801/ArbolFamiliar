@@ -11,9 +11,9 @@ public abstract class Person
         this.Edad = edad;
     }
 
-    public class individuo : Person
+    public class Individuo : Person
     {
-        public individuo(string nombre, int edad) : base(nombre, edad)
+        public Individuo(string nombre, int edad) : base(nombre, edad)
         {
         }
     }

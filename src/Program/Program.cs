@@ -7,13 +7,13 @@ namespace Program
     {
         static void main(String[] args)
         {
-            Person.individuo UEUAA = new Person.individuo("Mario", 37);
-            Person.individuo TingTang = new Person.individuo("Dylan", 17);
-            Person.individuo WalaWala = new Person.individuo("Juanjo", 28);
-            Person.individuo bingbong = new Person.individuo("Arieri", 45);
-            Person.individuo UEUAA1 = new Person.individuo("Maria", 12);
-            Person.individuo TingTangWalaWala = new Person.individuo("Natasha", 15);
-            Person.individuo BangBaaaaaang = new Person.individuo("La Sheni", 19);
+            Person.Individuo UEUAA = new Person.Individuo("Mario", 37);
+            Person.Individuo TingTang = new Person.Individuo("Dylan", 17);
+            Person.Individuo WalaWala = new Person.Individuo("Juanjo", 28);
+            Person.Individuo bingbong = new Person.Individuo("Arieri", 45);
+            Person.Individuo UEUAA1 = new Person.Individuo("Maria", 12);
+            Person.Individuo TingTangWalaWala = new Person.Individuo("Natasha", 15);
+            Person.Individuo BangBaaaaaang = new Person.Individuo("La Sheni", 19);
         }
         static void Main(string[] args)
         {
